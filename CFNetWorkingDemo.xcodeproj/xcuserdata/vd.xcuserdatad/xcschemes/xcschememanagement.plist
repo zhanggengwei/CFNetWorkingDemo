@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>client.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,21 @@
 			<true/>
 		</dict>
 		<key>754A0B511DFDA9FD00A7C1ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>754A0B6A1DFDB0C600A7C1ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>754A0B821DFDB0C600A7C1ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>754A0B8D1DFDB0C600A7C1ED</key>
 		<dict>
 			<key>primary</key>
 			<true/>

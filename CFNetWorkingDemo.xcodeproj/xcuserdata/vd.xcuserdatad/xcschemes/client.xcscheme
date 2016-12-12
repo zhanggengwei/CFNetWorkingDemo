@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "754A0B2D1DFDA9FD00A7C1ED"
-               BuildableName = "CFNetWorkingDemo.app"
-               BlueprintName = "CFNetWorkingDemo"
+               BlueprintIdentifier = "754A0B6A1DFDB0C600A7C1ED"
+               BuildableName = "client.app"
+               BlueprintName = "client"
                ReferencedContainer = "container:CFNetWorkingDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "754A0B461DFDA9FD00A7C1ED"
-               BuildableName = "CFNetWorkingDemoTests.xctest"
-               BlueprintName = "CFNetWorkingDemoTests"
+               BlueprintIdentifier = "754A0B821DFDB0C600A7C1ED"
+               BuildableName = "clientTests.xctest"
+               BlueprintName = "clientTests"
                ReferencedContainer = "container:CFNetWorkingDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -42,9 +42,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "754A0B511DFDA9FD00A7C1ED"
-               BuildableName = "CFNetWorkingDemoUITests.xctest"
-               BlueprintName = "CFNetWorkingDemoUITests"
+               BlueprintIdentifier = "754A0B8D1DFDB0C600A7C1ED"
+               BuildableName = "clientUITests.xctest"
+               BlueprintName = "clientUITests"
                ReferencedContainer = "container:CFNetWorkingDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -52,9 +52,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "754A0B2D1DFDA9FD00A7C1ED"
-            BuildableName = "CFNetWorkingDemo.app"
-            BlueprintName = "CFNetWorkingDemo"
+            BlueprintIdentifier = "754A0B6A1DFDB0C600A7C1ED"
+            BuildableName = "client.app"
+            BlueprintName = "client"
             ReferencedContainer = "container:CFNetWorkingDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -75,9 +75,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "754A0B2D1DFDA9FD00A7C1ED"
-            BuildableName = "CFNetWorkingDemo.app"
-            BlueprintName = "CFNetWorkingDemo"
+            BlueprintIdentifier = "754A0B6A1DFDB0C600A7C1ED"
+            BuildableName = "client.app"
+            BlueprintName = "client"
             ReferencedContainer = "container:CFNetWorkingDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -94,9 +94,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "754A0B2D1DFDA9FD00A7C1ED"
-            BuildableName = "CFNetWorkingDemo.app"
-            BlueprintName = "CFNetWorkingDemo"
+            BlueprintIdentifier = "754A0B6A1DFDB0C600A7C1ED"
+            BuildableName = "client.app"
+            BlueprintName = "client"
             ReferencedContainer = "container:CFNetWorkingDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
